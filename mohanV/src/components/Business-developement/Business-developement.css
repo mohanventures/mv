@@ -1,0 +1,26 @@
+#business-section {
+    margin-top: 6%;
+    margin-bottom: 6%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.business-details {
+    max-width: 600px;
+    background: linear-gradient(to right, #6190e8, #a7bfe8);
+    padding: 100px;
+    border-radius: 10px;
+}
+.paintBox {
+    width: 400px;
+    height: 400px;
+}
+
+.business-content {
+    color: rgba(0, 0, 0, 0.703);
+    margin-top: 10%;
+    line-height: 30px;
+    font-size: 19px;
+}

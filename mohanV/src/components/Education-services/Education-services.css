@@ -1,0 +1,19 @@
+#edu-main {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 17%;
+    margin-bottom: 17%;
+}
+
+
+.edu-details {
+   width: 500px;
+    text-align: left;
+}
+
+.edu-content {
+    line-height: 30px;
+    margin-top: 32px;
+    font-size: 19px;
+    opacity: 0.8;
+}

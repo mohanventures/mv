@@ -1,0 +1,41 @@
+.self-img {
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px #ccc;
+}
+
+#intro-content {
+    background: linear-gradient(to right, #36d1dc, #5b86e5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.glass-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.150));
+    margin-top: 45px;
+    margin-bottom: 45px;
+    width: 90%;
+    height: 90%;
+    padding: 52px;
+    border-radius: 10px;
+
+}
+
+.intro-line {
+    max-width: 400px;
+}
+
+@media screen and (max-width: 600px) {
+    .glass-wrapper {
+        display: inline-block;
+    }
+
+    .intro-line {
+        margin-top: 16px;
+    }
+}

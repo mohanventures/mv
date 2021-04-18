@@ -1,0 +1,23 @@
+#consulting {
+    padding-top: 9%;
+    padding-bottom: 9%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* background: linear-gradient(to right bottom, #3a7bd5, #3a6073); */
+}
+
+.cons-details {
+    max-width: 500px;
+}
+
+.cons-heading {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.cons-content {
+    margin-top: 7%;
+    color: rgba(0, 0, 0, 0.6);
+    line-height: 29px;
+    font-size: 19px;
+}

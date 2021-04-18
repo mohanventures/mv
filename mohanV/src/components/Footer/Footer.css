@@ -1,0 +1,36 @@
+footer {
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    padding: 48px;
+}
+
+#footer-content {
+    display: flex;
+    color: rgba(255, 255, 255, 0.781);
+    justify-content: space-around;
+    line-height: 35px;
+    opacity: 0.7;
+}
+
+.footer-atag {
+    color: white;
+}
+
+.footer-atag:hover {
+    color: #ccc;
+}
+
+.footer-logo {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 16px;
+    font-family: 'Cabin', sans-serif;
+    color: rgba(255, 253, 253, 0.883);  
+}
+
+.copyright-line {
+    color: rgba(255, 253, 253, 0.3); 
+}
+
+.itag {
+    margin-right: 10px;
+}

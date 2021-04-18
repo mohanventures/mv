@@ -1,0 +1,35 @@
+#form-data {
+    width: 450px;
+    height: 620px;
+    background-color: white;
+    margin: 50px auto 50px auto;
+    box-shadow: 2px 2px 20px #ccc;
+    border-radius: 2%;
+}
+
+/* .form-wrapper {
+    display: block;
+    text-align: center;
+} */
+
+.name-input {
+    width: 87%;
+    display: block;
+    margin: 5px auto 0 auto;
+}
+
+.name-label {
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.form-heading {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.form-button {
+    display: block;
+    margin: 20px auto 10px auto;
+}
